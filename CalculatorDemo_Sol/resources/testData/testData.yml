@@ -1,0 +1,6 @@
+﻿Application:
+ path : "C:\\Windows\\System32\\calc.exe"
+ processName: calc
+
+mainWindow:
+ title: Calculator
